@@ -168,4 +168,6 @@
 
 База кожных заболеваний https://drive.google.com/drive/folders/1UJZdbqRo6UpViDIDKThSiXmfbtYO1Y9o?usp=sharing
 
-15
+# 15
+
+**Алгоритмы кластеризации данных**
