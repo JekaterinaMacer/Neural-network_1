@@ -122,6 +122,34 @@
 
 **Автокодировщики**
 
+Описание занятия
+Цель урока.
+Вы изучите тему автокодировщик, как и где их применять и для чего они нужны. Познакомитесь с новой архитектурой нейронных сетей.
+
+Результат урока.
+Вы сможете написать свою модель автокодировщика. С его помощью искать выбросы, удалять с картинок шумы, и генерировать новые данные.
+
+В видео рассматриваются: Первая практическая задача - обучить модель сжимать картинку с цифрой mnist в латентное (embedding) пространство, а затем обратно разворачивать в картинку с минимум потерь в сравнении с оригинальной. 
+Вторая задача - восстановить лицо из зашумленной картинки. Третья задача - определить мошеннические операции.
+
+Место в курсе.
+Понимание этой темы поможет разобраться в вариационных автокодировщиках и познать проблемы простых автокодировщиков.
+
+Необходимые материалы:
+
+Презентация https://docs.google.com/presentation/d/1TCJr0yfYhfF0zcwMn3l0HYIKSe0o39FSZZjlTOLq8aU/edit?usp=sharing
+
+Методичка https://drive.google.com/file/d/1NoOuHKyD_iSHMCYOAJfv8Tiv-cWgF7BO/view?usp=sharing
+
+Ноутбук-практикум https://colab.research.google.com/drive/1ndRtdEjB2KCJ-HFywncjzmUtdw4LkLxm?usp=sharing 
+
+База CREDITCARD https://storage.googleapis.com/datasets_ai/Bas%D0%B5Unit/12_autoencoder/creditcard.csv
+
+База лиц https://storage.googleapis.com/datasets_ai/Bas%D0%B5Unit/12_autoencoder/facez.zip
+ 
+
+*Если у Вас не получается открыть ноутбук или появляется уведомление об ошибке, попробуйте открыть ноутбук по данной ссылке:   https://colab.research.google.com/drive/14Q6akbmLQtSfuMaO1aJaCopWvU3QbO2u?usp=sharing 
+
 # 10
 
 **Вариационные автокодировщики, генеративные модели на базе автокодировщиков**
@@ -297,3 +325,15 @@
 База https://drive.google.com/file/d/1FMzuCJI47Szhnruh-5wNtyZMmQmAOtK3/view
 
 # 16
+
+
+# 17
+
+
+# 18
+
+
+# 19
+
+
+# 20
