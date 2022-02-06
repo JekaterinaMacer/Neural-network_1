@@ -395,6 +395,27 @@
 
 **Object Detection (обнаружение объектов)**
 
+Описание занятия
+Цель урока.
+Познакомить Вас с «прошлым» object detection, узнать, что используется в данный момент. Рассказать что такое анкоры, bounding boxes, узнать как они формируются. 
+
+Результат урока.
+Вы научитесь формировать bounding box-ы, их классифицировать. Вы узнаете историю object detection, и почему именно его используют в данный момент вместо сегментации изображения. 
+
+Теоретическая часть.
+В видео расскажут историю Selective Search, RCNN, Fast-RCNN, Faster-RSNN, SPP. Разберут теория YOlOv3, будет рассказано про bounding box, анкор.
+
+Место в курсе.
+Этот урок поможет Вам определять на видеоряде людей, можно определять местоположение на видеообъекте и его класса. Так же можно отслеживать трафик на дорогах, можно отслеживать наличие товара на полках в магазине в онлайн режиме. Список можно долго продолжать!
+
+Необходимые материалы:
+Презентация https://docs.google.com/presentation/d/1aFSQedEYMZSVWOgx_iOSkQd9Hxx9Dxt0-Mibbax1ye4/edit?usp=sharing
+Методичка https://drive.google.com/file/d/19JDcazd_WOraGBlTpoyVjZOaRy4fRPiu/view?usp=sharing
+Ноутбук 1 https://colab.research.google.com/drive/1KRxb0_Ikidh8zxD70oF9VaV3y_8mGMWe?usp=sharing
+Ноутбук 2 https://colab.research.google.com/drive/1VhbsU1JBaZFzSrnna4CNje3sZs5YwniO?usp=sharing
+База https://drive.google.com/open?id=1Oq3rG1WhrJ0rQ_EvcmMCHVtIc-_7T4G0
+ База (веса модели YOLOv3 самолеты-500 эпох) https://drive.google.com/file/d/11Ep15olq-zxek7DWTBl3a6a6T85aCj64/view
+
 # 20
 
 **Распознавание речи**
