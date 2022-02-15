@@ -420,3 +420,28 @@
 
 **Распознавание речи**
 
+Описание занятия
+
+Цель урока.
+Познакомить с популярной задачей по работе с речью, и как она решается. Эта задача заключается в превращении речи в текст.
+
+Результат урока.
+Вы научитесь распознавать речь, т.е. превращать речь в текст. А также узнаете о уже готовых инструментах для этой задачи. А также узнаете о проблемах, с которыми можно столкнуться и как их решать.
+
+Теоретическая часть.
+В видео рассматриваются: Идея распознавание речи, одна из основных задач обработки естественного языка, задача распознавания речи, область применения, общая постановка задачи, акустические признаки MFCC признаки, акустическая модель, языковая модель, оценка качества распознавания, проблемы в задаче распознавания речи, библиотеки для работы с аудио и распознаванием речи.
+
+Место в курсе.
+Изучение этого компонента поможет в понимании части работы некоторых систем. А также эта тема очень важна для создания собственных проектов, где требуется превращение речи в текст. Например: голосовое управление чем-нибудь.
+
+Необходимые материалы:
+
+Презентация https://docs.google.com/presentation/d/1qx6Ru1d6j0kWz1vJd6y8kXFQ43_9Wge2yt6Lzwy18Ug/edit?usp=sharing
+Методичка https://drive.google.com/file/d/1Bca8l1IPlKHuQqCYBBaiFZJ5PEB07ICe/view?usp=sharing
+Ноутбук-практикум № 1 https://colab.research.google.com/drive/1oVFmGJ4jMJLKBvGXK2lMUxbz1VaGL_Ur?usp=sharing
+Ноутбук-практикум №  2 https://colab.research.google.com/drive/1hfRjUfLHwKlBwma8wxS0GHx_c460B3nL?usp=sharing
+База Speech recognition https://drive.google.com/drive/folders/1h9nvZ3Ia3cTJCvI9BU79iyK9sBYZt26W?usp=sharing
+База речевых команд https://drive.google.com/drive/folders/1KpDL64tYg5GvxR0-Jz-hO_Kuo-bKe9bk?usp=sharing
+База comands https://drive.google.com/drive/folders/1dqG7PUe50h-50XyjUc3DP00YxH8Ic_Kz?usp=sharing
+База test_speech https://drive.google.com/drive/folders/1-5BvWm2-6GF-w0bqCAzo5733rD-VAHi-?usp=sharing
+
